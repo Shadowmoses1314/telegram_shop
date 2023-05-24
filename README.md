@@ -1,5 +1,5 @@
 # Telegram Shop Bot
-
+https://t.me/soul_In_bloom_bot
 This is a Telegram bot designed for managing an online shop. The bot is capable of generating a list of products, categorizing them, and providing inline buttons for user interaction. It also includes an admin section where you can create, delete, and edit products.
 ### Stack
 
