@@ -1,0 +1,4 @@
+aiogram==2.25.1
+python_dotenv==1.0.0
+beautifulsoup4
+requests

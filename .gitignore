@@ -1,0 +1,17 @@
+# Byte-compiled / optimized Python files
+*.pyc
+__pycache__/
+
+# Игнорировать файлы среды разработки
+.idea/
+.vscode/
+
+# Игнорировать файлы локальной базы данных SQLite
+*.sqlite3
+
+# Игнорировать файлы с настройками пользователя
+*.bak
+*.swp
+
+.env
+env/
